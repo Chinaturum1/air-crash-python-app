@@ -12,7 +12,7 @@ st.set_page_config(
 # ── LOAD & CLEAN DATA
 @st.cache_data
 def load_data():
-    df = pd.read_csv("aircrahesFullDataUpdated_2024.csv")
+    df = pd.read_csv("streamlit-app/aircrahesFullDataUpdated_2024.csv")
 
     # Fill missing values in object columns
     df["Country/Region"] = df["Country/Region"].fillna("Unknown")
