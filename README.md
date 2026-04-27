@@ -2,7 +2,7 @@
 
 An exploratory data analysis of global aircraft crashes spanning over a century, built with Python and deployed as an interactive dashboard using Streamlit.
 
-> **Note:** This dataset was also used in a separate [Excel-based analysis project](#), where pivot tables and Excel charts were used to explore the same data. This Python project takes the analysis further with programmatic cleaning, visualisation, and an interactive web app.
+> **Note:** This dataset was also used in a separate [Excel-based analysis project](https://github.com/Chinaturum1/Air-Crash-Data-Analysis-Project), where pivot tables and Excel charts were used to explore the same data. This Python project takes the analysis further with programmatic cleaning, visualisation, and an interactive web app.
 
 ---
 
@@ -115,4 +115,4 @@ streamlit run app.py
 ## ✍️ Author
 
 **Okonkwo Uchechukwu Faith**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-link)
+[GitHub](https://github.com/Chinaturum1) · [LinkedIn](https://linkedin.com/in/uchechukwu-okonkwo-data)
